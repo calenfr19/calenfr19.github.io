@@ -7,3 +7,14 @@ body {
 h1 {
   color: #333;
 }
+
+.social-links {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.social-links i {
+  font-size: 28px;
+  color: #0a66c2;
+}
